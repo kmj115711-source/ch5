@@ -9,3 +9,4 @@ while i <= 10 :
         continue   # 다시 반복문으로 돌아간다
     print(i) 
     i = i+1
+
